@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin Trouvé</h1>
 <h3 align="center">A young and smiling frontend developer from Paris 🇫🇷</h3>
+<h3 align="center">‼️ OPEN TO WORK ‼️</h3>
 <img align="right" width="375" alt="bitmoji" src="https://sdk.bitmoji.com/render/panel/20088502-421829358_4-s5-v1.png?transparent=1&palette=1&scale=2" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quentintrouve&label=Profile%20views&color=ebb00f&style=flat" alt="quentintrouve" /></p>
@@ -12,20 +13,17 @@
 
 - 👀 I have knowledge about **Php, Symfony, Twig, Bootstrap**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/quentintrouve)
+- 👨‍💻 All of my projects are available **[Here](https://github.com/quentintrouve)**
 
-- 📖 Daily technology watch **Dev.to, Twitter, Dribble**
+- 🧠 Daily technology watch on **Dev.to, Twitter, Dribble**
 
 - 📫 How to reach me **trouve.quentin@gmail.com**
 
+- 📄 Know about my experiences **[Here](https://www.linkedin.com/in/quentintrouve/details/experience)**
+
 - ⚡ **Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;👮‍♂️ -> 👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏓 for 17 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏀 ⛰ 📈 📚 🔭
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/loden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="loden" height="30" width="40" /></a>
-<a href="https://twitter.com/quentin_trouve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quentin_trouve" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/quentintrouve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentintrouve" height="30" width="40" /></a>
-</p>
+<br><br><br>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -105,5 +103,20 @@
   </a> &nbsp;&nbsp;
   <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>
-  </a>          
-</p
+  </a>
+</p>
+  
+ <br><br><br>
+ 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/quentin_trouve" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quentin_trouve" height="30" width="40" />
+  </a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/quentintrouve" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentintrouve" height="30" width="40" />
+  </a>
+</p>
+<p align="center">
+  <img width="150" alt="bitmoji" src="https://sdk.bitmoji.com/render/panel/10233631-421829358_4-s5-v1.png?transparent=1&palette=1&scale=2"/>
+</p>
