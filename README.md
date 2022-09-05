@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quentin Trouvé</h1>
 <h3 align="center">A young and smiling frontend developer from Paris 🇫🇷</h3>
 <h3 align="center">‼️ OPEN TO WORK ‼️</h3>
-<img align="right" width="375" alt="bitmoji" src="https://sdk.bitmoji.com/render/panel/20088502-421829358_4-s5-v1.png?transparent=1&palette=1&scale=2" />
+
+<img align="right" width="400" alt="bitmoji" src="https://sdk.bitmoji.com/render/panel/20088502-421829358_4-s5-v1.png?transparent=1&palette=1&scale=2" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quentintrouve&label=Profile%20views&color=ebb00f&style=flat" alt="quentintrouve" /></p>
 
