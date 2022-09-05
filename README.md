@@ -2,7 +2,7 @@
 <h3 align="center">A young and smiling frontend developer from Paris 🇫🇷</h3>
 <h3 align="center">‼️ OPEN TO WORK ‼️</h3>
 
-<img align="right" width="400" alt="bitmoji" src="https://sdk.bitmoji.com/render/panel/20088502-421829358_4-s5-v1.png?transparent=1&palette=1&scale=2" />
+<img align="right" width="375" alt="bitmoji" src="https://sdk.bitmoji.com/render/panel/20088502-421829358_4-s5-v1.png?transparent=1&palette=1&scale=2" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quentintrouve&label=Profile%20views&color=ebb00f&style=flat" alt="quentintrouve" /></p>
 
@@ -24,7 +24,7 @@
 
 - ⚡ **Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;👮‍♂️ -> 👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏓 for 17 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏀 ⛰ 📈 📚 🔭
 
-<br><br><br>
+<br><br>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -107,7 +107,7 @@
   </a>
 </p>
   
- <br><br><br>
+ <br><br>
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
