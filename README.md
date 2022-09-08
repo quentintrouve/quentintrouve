@@ -2,7 +2,7 @@
 <h3 align="center">A young and smiling frontend developer from Paris 🇫🇷</h3>
 <h3 align="center">‼️ OPEN TO WORK ‼️</h3>
 
-<img align="right" width="375" alt="bitmoji" src="https://sdk.bitmoji.com/render/panel/20088502-421829358_4-s5-v1.png?transparent=1&palette=1&scale=2" />
+<img align="right" width="300" alt="bitmoji" src="https://sdk.bitmoji.com/render/panel/20088502-421829358_4-s5-v1.png?transparent=1&palette=1&scale=2" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quentintrouve&label=Profile%20views&color=ebb00f&style=flat" alt="quentintrouve" /></p>
 
@@ -16,21 +16,15 @@
 
 - 👨‍💻 Daily technology watch on **Dev.to, Twitter, Dribble**
 
-- 📫 How to reach me **trouve.quentin@gmail.com**
-
 - 📄 Know about my experiences **[Here](https://www.linkedin.com/in/quentintrouve/details/experience)**
 
 - ⚡ **Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;👮‍♂️ -> 👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏓 for 17 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏀 ⛰ 📈 📚
 
 <br><br>
 
-<table>
+<table align="center">
   <tr>
     <th>Languages</th>
-    <th>Knwoledge</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
@@ -55,8 +49,14 @@
       </a> &nbsp;&nbsp;
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> 
-      </a>
+      </a> &nbsp;&nbsp;
+       <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="30" height="30"/> 
+      </a>  
     </td>
+  </tr>
+  <tr>
+    <th>Knwoledge</th>
     <td>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30" alt="aws" />
@@ -77,6 +77,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <th>Tools</th>
     <td>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
@@ -97,11 +100,13 @@
   </tr>
 </table>
 
-  
- <br><br>
+ <br>
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  <a href="mailto:trouve.quentin@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="trouve.quentin" height="30" width="40" />
+  </a> &nbsp;&nbsp;
   <a href="https://twitter.com/quentin_trouve" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quentin_trouve" height="30" width="40" />
   </a> &nbsp;&nbsp;
