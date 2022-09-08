@@ -104,7 +104,7 @@
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:trouve.quentin@gmail.com" target="blank">
+  <a href="mailto:trouve.quentin@gmail.com" target="blank" title="trouve.quentin@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="trouve.quentin" height="30" width="40" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/quentin_trouve" target="blank">
