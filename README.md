@@ -14,7 +14,7 @@
 
 - 👀 I have knowledge about **Php, Symfony, Twig, Nodejs, Bootstrap**
 
-- 👨‍💻 Daily technology watch on **Dev.to, Twitter, Dribble**
+- 👨‍💻 Daily technology watch on **Dev.to, Dribble, Twitter, Youtube**
 
 - 📄 Know about my experiences **[Here](https://www.linkedin.com/in/quentintrouve/details/experience)**
 
