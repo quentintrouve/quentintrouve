@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Memory](https://strate.my-memory.io/)
 
-- 🌱 I’m currently learning **Typescript, Storybook, Firebase**
+- 🌱 I’m currently learning **Next.js, Typescript, Firebase**
 
 - 💬 Ask me about **Javascript, React, Sass/Scss, Tailwind, jQuery**
 
