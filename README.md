@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Memory](https://strate.my-memory.io/)
 
-- 🌱 I’m currently learning **Jest, react-testing-library, Typescript, Firebase**
+- 🌱 I’m currently learning **Jest, react-testing-library**
 
-- 💬 Ask me about **Javascript, React.js, Next.js, Sass/Scss, Tailwind, jQuery**
+- 💬 Ask me about **Javascript, Typescript, React.js, Next.js, Firebase, Sass/Scss, Tailwind, jQuery**
 
 - 👀 I have knowledge about **Php, Symfony, Twig, Nodejs, Bootstrap**
 
