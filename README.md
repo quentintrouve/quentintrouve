@@ -16,7 +16,7 @@
 
 - 👨‍💻 Daily technology watch on **Dev.to, Dribble, Twitter, Youtube**
 
-- 📄 Know about my experiences **[Here](https://www.linkedin.com/in/quentintrouve/details/experience)**
+- 📄 Know about my experiences **[Here](https://www.linkedin.com/in/quentintrouve/details/experience)** and **[Here](https://docs.google.com/document/d/13ZNltT2Ar6LVRRU5BnFTI-odPd7nVpGG/edit?usp=sharing&ouid=113210345517400048232&rtpof=true&sd=true)**
 
 - ⚡ **Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;👮‍♂️ -> 👨‍💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏓 for 17 years&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏀 ⛰ 📈 📚
 
